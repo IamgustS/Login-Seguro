@@ -1,8 +1,10 @@
-# Aster — login seguro
+login seguro
+
+Aster = "nome fictício de outro projeto pessoal de IamgustS, apenas nome de decoração neste login não faz parte do projeto WedTech"
 
 Uma tela responsiva de login e criação de conta em PHP. Por padrão, os dados ficam em um banco SQLite fora da pasta pública do site; MySQL também está disponível como opção.
 
-2 semanas em Desenvolvimento pegando como base um parte de cpdigo do projeto WedTech e fazendo a sua melhoria na parte de login e segurança do usuario.
+2 semanas em Desenvolvimento pegando como base um parte de codigo do projeto WedTech e fazendo a sua melhoria na parte de login e segurança do usuario.
 
 ## Requisitos
 
@@ -101,5 +103,3 @@ README.md
 ```
 
 O `.gitignore` exclui configurações locais, credenciais e bancos de desenvolvimento. O projeto usa PHP e precisa de uma hospedagem compatível; GitHub Pages não executa PHP.
-
-Para publicar no GitHub, crie um repositório vazio e envie os arquivos do projeto com Git. Nunca adicione senhas, arquivos `.env` ou o banco SQLite ao repositório.
