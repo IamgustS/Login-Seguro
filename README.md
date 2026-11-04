@@ -1,6 +1,4 @@
-login seguro
-
-Aster = "nome fictício de outro projeto pessoal de IamgustS, apenas nome de decoração neste desenvolvimento de login de segurança, não faz parte do projeto WedTech"
+login seguro
 
 Uma tela responsiva de login e criação de conta em PHP. Por padrão, os dados ficam em um banco SQLite fora da pasta pública do site; MySQL também está disponível como opção.
 
